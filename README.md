@@ -1,8 +1,8 @@
 # Azure IoT Resources
 
-Follow me on twitter [@dglover](https://twitter.com/dglover)
+Follow me on twitter **[@dglover](https://twitter.com/dglover)**
 
-Follow #msiot
+Follow Microsoft IoT on Twitter **#msiot**
 
 ---
 
