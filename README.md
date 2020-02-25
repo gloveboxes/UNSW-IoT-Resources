@@ -12,7 +12,7 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## Slides
 
-[UNSW Azure IoT Slides]()
+[UNSW Azure IoT Slides](https://1drv.ms/p/s!AoksQQquzfG6hbdMfSL-dNK2UcPdNQ?e=hOhoSU)
 
 ---
 
