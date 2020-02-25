@@ -16,6 +16,31 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ---
 
+## Student Resources
+
+* [Azure Free for Students](https://azure.microsoft.com/en-us/free/students)
+
+    Any UNSW student can activate with their UNSW edu.au email address.
+    
+    This will give you:
+    * $100 of Azure credit,
+    * access to the dev tools including Visual Studio,
+    * and year-long access to a range of services (in addition to the $100 credit), which includes:
+        * Azure IoT Central Free Trail and 2 free devces there after,
+        * Microsoft IoT Hub (up to 8,000 messages a day), 
+        * Azure Functions (up to 1m requests a month), 
+        * SQL Server Developer Edition 
+        * and heaps of different AI & Machine Learning services.
+
+---
+
+## Microsoft Learn
+
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=developer)
+    Learn new skills and discover the power of Microsoft products with step-by-step guidance. Start your journey today by exploring our learning paths and modules.
+
+---
+
 ## Resources
 
 * [Azure IoT Central](https://azure.microsoft.com/en-au/services/iot-central/)
@@ -29,9 +54,16 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ---
 
-### Microsoft Internet of Things Show
+### Free Training
 
 * [Microsoft IoT Show](https://channel9.msdn.com/Shows/Internet-of-Things-Show)
+* [Getting started with Azure IoT](https://www.udemy.com/course/getting-started-with-azure-iot/)
+
+---
+
+## Azure IoT Certification
+
+* [Exam AZ-220: Microsoft Azure IoT Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
 
 ## Projects
 
