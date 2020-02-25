@@ -4,6 +4,8 @@ Follow me on twitter **[@dglover](https://twitter.com/dglover)**
 
 Follow Microsoft IoT on Twitter **#msiot**
 
+[This document](https://gloveboxes.github.io/UNSW-IoT-Resources/)
+
 ---
 
 ## A bit about me
