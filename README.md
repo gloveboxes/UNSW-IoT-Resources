@@ -88,3 +88,8 @@ Follow Microsoft IoT on Twitter **#msiot**
 ## Simulators
 
 * [Raspberry Pi IoT Simulator](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started?WT.mc_id=github-blog-dglover)
+
+## Free Developer Tools and IoT Extension Support
+
+* [Visual Studio Code - Linux, macOS, and Windows ](https://code.visualstudio.com/?WT.mc_id=github-blog-dglover)
+* [Visual Studio 2019 Free Community Edition](https://visualstudio.microsoft.com/vs/community/?WT.mc_id=github-blog-dglover)
