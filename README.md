@@ -10,6 +10,12 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ---
 
+## Slides
+
+[UNSW Azure IoT Slides]()
+
+---
+
 ## A bit about me
 
 [Dave Glover IoT Cloud Advocate](https://developer.microsoft.com/en-us/advocates/dave-glover?WT.mc_id=github-blog-dglover)
@@ -51,6 +57,11 @@ Follow Microsoft IoT on Twitter **#msiot**
 * [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-weather-forecast-machine-learning?WT.mc_id=github-blog-dglover)
 * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=github-blog-dglover)
 * [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview?WT.mc_id=github-blog-dglover)
+* [Power Apps](https://powerapps.microsoft.com/en-us/)
+* [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
+* [Flow Apps Automation](https://flow.microsoft.com/en-us/)
+* [Data Visualisation](https://powerbi.microsoft.com/)
+* [Azure Machine Learning](Studio https://studio.azureml.net/)
 
 ---
 
