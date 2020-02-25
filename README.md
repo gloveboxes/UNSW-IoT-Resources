@@ -20,6 +20,8 @@ Follow #msiot
 * [Azure Cognitive Services](https://azure.microsoft.com/en-au/services/cognitive-services/)
 * [Azure Vision AI Kit](https://azure.github.io/Vision-AI-DevKit-Pages/)
 * [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-weather-forecast-machine-learning)
+* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/)
+* [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
 
 ---
 
