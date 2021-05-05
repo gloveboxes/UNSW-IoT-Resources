@@ -18,13 +18,13 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## A bit about me
 
-[Dave Glover IoT Cloud Advocate](https://developer.microsoft.com/en-us/advocates/dave-glover?WT.mc_id=github-blog-dglover)
+[Dave Glover IoT Cloud Advocate](https://developer.microsoft.com/advocates/dave-glover?WT.mc_id=iot-0000-dglover)
 
 ---
 
 ## Student Resources
 
-* [Azure Free for Students](https://azure.microsoft.com/en-us/free/students?WT.mc_id=github-blog-dglover)
+* [Azure Free for Students](https://azure.microsoft.com/free/students?WT.mc_id=iot-0000-dglover)
 
     Any UNSW student can activate with their UNSW edu.au email address.
     
@@ -42,39 +42,39 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## Microsoft Learn
 
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?roles=developer&WT.mc_id=github-blog-dglover)
+* [Microsoft Learn](https://docs.microsoft.com/learn/browse/?roles=developer&WT.mc_id=iot-0000-dglover)
     Learn new skills and discover the power of Microsoft products with step-by-step guidance. Start your journey today by exploring our learning paths and modules.
 
 ---
 
 ## Resources
 
-* [Azure IoT Central](https://azure.microsoft.com/en-au/services/iot-central/?WT.mc_id=github-blog-dglover)
-* [Azure IoT Hub - Includes Quick Starts for all major languages](https://azure.microsoft.com/en-au/services/iot-hub/?WT.mc_id=github-blog-dglover)
-* [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/?WT.mc_id=github-blog-dglover)
-* [Azure Cognitive Services](https://azure.microsoft.com/en-au/services/cognitive-services/?WT.mc_id=github-blog-dglover)
+* [Azure IoT Central](https://azure.microsoft.com/services/iot-central/?WT.mc_id=iot-0000-dglover)
+* [Azure IoT Hub - Includes Quick Starts for all major languages](https://azure.microsoft.com/services/iot-hub/?WT.mc_id=iot-0000-dglover)
+* [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=iot-0000-dglover)
+* [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=iot-0000-dglover)
 * [Azure Vision AI Kit](https://azure.github.io/Vision-AI-DevKit-Pages/)
-* [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-weather-forecast-machine-learning?WT.mc_id=github-blog-dglover)
-* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=github-blog-dglover)
-* [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview?WT.mc_id=github-blog-dglover)
-* [Power Apps](https://powerapps.microsoft.com/en-us/)
-* [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
-* [Flow Apps Automation](https://flow.microsoft.com/en-us/)
-* [Data Visualisation](https://powerbi.microsoft.com/)
+* [Azure Machine Learning Studio](https://docs.microsoft.com/azure/iot-hub/iot-hub-weather-forecast-machine-learning?WT.mc_id=iot-0000-dglover)
+* [Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=iot-0000-dglover)
+* [Azure Logic Apps](https://docs.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=iot-0000-dglover)
+* [Power Apps](https://powerapps.microsoft.com/?WT.mc_id=iot-0000-dglover)
+* [Logic Apps](https://azure.microsoft.com/services/logic-apps/?WT.mc_id=iot-0000-dglover)
+* [Flow Apps Automation](https://flow.microsoft.com/?WT.mc_id=iot-0000-dglover)
+* [Data Visualisation](https://powerbi.microsoft.com/?WT.mc_id=iot-0000-dglover)
 * [Azure Machine Learning](Studio https://studio.azureml.net/)
 
 ---
 
 ### Free Training
 
-* [Microsoft IoT Show](https://channel9.msdn.com/Shows/Internet-of-Things-Show?WT.mc_id=github-blog-dglover)
+* [Microsoft IoT Show](https://channel9.msdn.com/Shows/Internet-of-Things-Show?WT.mc_id=iot-0000-dglover)
 * [Getting started with Azure IoT](https://www.udemy.com/course/getting-started-with-azure-iot/)
 
 ---
 
 ## Azure IoT Certification
 
-* [Exam AZ-220: Microsoft Azure IoT Developer (beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220?WT.mc_id=github-blog-dglover)
+* [Exam AZ-220: Microsoft Azure IoT Developer (beta)](https://docs.microsoft.com/learn/certifications/exams/az-220?WT.mc_id=iot-0000-dglover)
 
 ## Projects
 
@@ -85,7 +85,7 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## Web Properties
 
-* [Internet of Things Tech Community](https://techcommunity.microsoft.com/t5/internet-of-things/bg-p/IoTBlog?WT.mc_id=github-blog-dglover)
+* [Internet of Things Tech Community](https://techcommunity.microsoft.com/t5/internet-of-things/bg-p/IoTBlog?WT.mc_id=iot-0000-dglover)
 * [GitHub github.com/gloveboxes](https://github.com/gloveboxes?tab=repositories)
 * [Hackster.io www.hackster.io/glovebox](https://www.hackster.io/glovebox)
 * [Dev.to https://dev.to/gloveboxes](https://dev.to/gloveboxes)
@@ -98,9 +98,9 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## Simulators
 
-* [Raspberry Pi IoT Simulator](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started?WT.mc_id=github-blog-dglover)
+* [Raspberry Pi IoT Simulator](https://docs.microsoft.com/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started?WT.mc_id=iot-0000-dglover)
 
 ## Free Developer Tools and IoT Extension Support
 
-* [Visual Studio Code - Linux, macOS, and Windows ](https://code.visualstudio.com/?WT.mc_id=github-blog-dglover)
-* [Visual Studio 2019 Free Community Edition](https://visualstudio.microsoft.com/vs/community/?WT.mc_id=github-blog-dglover)
+* [Visual Studio Code - Linux, macOS, and Windows ](https://code.visualstudio.com/?WT.mc_id=iot-0000-dglover)
+* [Visual Studio 2019 Free Community Edition](https://visualstudio.microsoft.com/vs/community/?WT.mc_id=iot-0000-dglover)
